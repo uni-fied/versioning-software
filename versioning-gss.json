@@ -5,7 +5,7 @@
       "[Fixed] Surface again Git's warning about unsafe directories and provide a way to trust repositories not owned by the current user"
     ],
     "pub_date": "2022-07-14T09:25:29Z",
-    "version": "3.0.5"
+    "version": "3.6.8"
   },
   {
     "name": "",
